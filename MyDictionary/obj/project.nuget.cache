@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "j6XgT02JSQy39niKl1BEiLNdmuTlQRRtLLzhtyWWxBUF/FfWGUa3oxw9vlpn43iF1IIml+eMGiimEONUeWlNSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ferhat\\source\\repos\\Kodlama.io_Camp\\MyDictionary\\MyDictionary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ferhat\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ferhat\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\ferhat\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\ferhat\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
