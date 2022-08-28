@@ -1,0 +1,13 @@
+C:\Users\ferhat\source\repos\Kodlama.io_Camp\GameSales_MS\bin\Debug\netcoreapp3.1\GameSales_MS.exe
+C:\Users\ferhat\source\repos\Kodlama.io_Camp\GameSales_MS\bin\Debug\netcoreapp3.1\GameSales_MS.deps.json
+C:\Users\ferhat\source\repos\Kodlama.io_Camp\GameSales_MS\bin\Debug\netcoreapp3.1\GameSales_MS.runtimeconfig.json
+C:\Users\ferhat\source\repos\Kodlama.io_Camp\GameSales_MS\bin\Debug\netcoreapp3.1\GameSales_MS.runtimeconfig.dev.json
+C:\Users\ferhat\source\repos\Kodlama.io_Camp\GameSales_MS\bin\Debug\netcoreapp3.1\GameSales_MS.dll
+C:\Users\ferhat\source\repos\Kodlama.io_Camp\GameSales_MS\bin\Debug\netcoreapp3.1\GameSales_MS.pdb
+C:\Users\ferhat\source\repos\Kodlama.io_Camp\GameSales_MS\obj\Debug\netcoreapp3.1\GameSales_MS.csprojAssemblyReference.cache
+C:\Users\ferhat\source\repos\Kodlama.io_Camp\GameSales_MS\obj\Debug\netcoreapp3.1\GameSales_MS.AssemblyInfoInputs.cache
+C:\Users\ferhat\source\repos\Kodlama.io_Camp\GameSales_MS\obj\Debug\netcoreapp3.1\GameSales_MS.AssemblyInfo.cs
+C:\Users\ferhat\source\repos\Kodlama.io_Camp\GameSales_MS\obj\Debug\netcoreapp3.1\GameSales_MS.csproj.CoreCompileInputs.cache
+C:\Users\ferhat\source\repos\Kodlama.io_Camp\GameSales_MS\obj\Debug\netcoreapp3.1\GameSales_MS.dll
+C:\Users\ferhat\source\repos\Kodlama.io_Camp\GameSales_MS\obj\Debug\netcoreapp3.1\GameSales_MS.pdb
+C:\Users\ferhat\source\repos\Kodlama.io_Camp\GameSales_MS\obj\Debug\netcoreapp3.1\GameSales_MS.genruntimeconfig.cache
